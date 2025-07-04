@@ -8,8 +8,8 @@ import io
 # -------------------------------------------
 # Spotify Credentials
 # -------------------------------------------
-client_id = "4a253c1cc2e6450f90de5ee7fee0ebbc"
-client_secret = "3e8920bb7ecb4dc7bb09657a870da6b5"
+client_id = "YOUR_SPOTIFY CLIENT_ID"
+client_secret = "YOUR SPOTIFY CLIENT_SECRET"
 
 # Authenticate Spotify
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
