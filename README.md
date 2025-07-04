@@ -46,5 +46,5 @@ _You can deploy this on [Streamlit Cloud](https://streamlit.io/cloud) or any ser
 ### ✅ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/moodmusic-spotify-recommender.git
+git clone https://github.com/HarshR082/moodmusic-spotify-recommender.git
 cd moodmusic-spotify-recommender
